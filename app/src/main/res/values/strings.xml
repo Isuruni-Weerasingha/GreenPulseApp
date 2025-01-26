@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">GreenPulse</string>
+    <string name="app_name">Modern Learning</string>
+    <string name="header_title">What Would You Like to Learn Today?</string>
+    <string name="develop">Developing</string>
+    <string name="design">Designing</string>
+    <string name="ai_ml">AI and ML</string>
+    <string name="explore">Explore</string>
+    <string name="develop_description">Learn coding and software development</string>
+    <string name="design_description">Master designing skills</string>
+    <string name="ai_ml_description">Explore AI and Machine Learning</string>
+    <string name="explore_description">Discover new opportunities</string>
+    <string name="popular_courses">Popular Courses</string>
+    <string name="see_all">See All</string>
 </resources>
